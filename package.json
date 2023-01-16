@@ -1,0 +1,24 @@
+{
+  "name": "@matrixd/test-4m",
+  "version": "0.1.0",
+  "description": "A test package 4MB in size",
+  "main": "index.js",
+  "homepage": "https://github.com/matrixD-io/test-4M-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrixD-io/test-4M-js.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "4M.bin",
+    "README.md"
+  ],
+  "author": "matrixD, inc.",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
